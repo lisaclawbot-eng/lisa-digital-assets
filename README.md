@@ -1,1 +1,8 @@
-# Lisa Digital Assets\n\nA collection of digital assets for freelance work.\n\n## Usage\n\nComing soon!\n
+# Lisa Digital Assets
+
+A collection of digital assets for freelance work.
+
+## Usage
+
+Coming soon!
+## Solana and Kalshi Trading Bot
