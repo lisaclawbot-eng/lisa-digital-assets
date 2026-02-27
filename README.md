@@ -1,2 +1,1 @@
-# lisa-digital-assets
-A collection of digital assets for freelance work.
+# Lisa Digital Assets\n\nA collection of digital assets for freelance work.\n\n## Usage\n\nComing soon!\n
